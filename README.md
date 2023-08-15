@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FaizanProjectt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md.Faizan Ahmad
+- 👀 I’m interested in Frontend.
+- 🌱 I’m currently learning Frontesnd, Backend and all related topics, Python Programming languages.
+- 💞️ I’m looking to collaborate on everyone who is intrested in my projects and thoughth Process. 
+- 📫 How to reach me ..contact @mdfaizanahmadofficial@gmail.com
 
 <!---
 FaizanProjectt/FaizanProjectt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
